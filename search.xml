@@ -13,13 +13,13 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[关于]]></title>
-    <url>%2Fabout%2Findex.html</url>
-    <content type="text"><![CDATA[大家好，我是XXX。欢迎来到我的个人技术博客。 这里用markdown写下你的简介，就跟平时写md一样就可以了。]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[读书]]></title>
     <url>%2Freading%2Findex.html</url>
     <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[关于]]></title>
+    <url>%2Fabout%2Findex.html</url>
+    <content type="text"><![CDATA[大家好，我是XXX。欢迎来到我的个人技术博客。 这里用markdown写下你的简介，就跟平时写md一样就可以了。]]></content>
   </entry>
 </search>
