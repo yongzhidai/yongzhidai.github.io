@@ -1,4 +1,4 @@
-*.log
+db.json
+*.logn
 public/
 .deploy*/
-db.json
