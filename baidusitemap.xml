@@ -3,14 +3,13 @@
 
 
     
-    
   <url>
-    <loc>http://yoursite.com/2018/01/16/hello-world/</loc>
-    <lastmod>2018-01-16T13:14:29.000Z</lastmod>
+    <loc>http://yoursite.com/2018/01/17/hello-world/</loc>
+    <lastmod>2018-01-17T02:57:58.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
-        <pubTime>2018-01-16T07:11:08.000Z</pubTime>
+        <pubTime>2018-01-17T02:57:58.000Z</pubTime>
         
         <tag>测试</tag>
          
@@ -25,5 +24,6 @@
     </data>
     </url>
 
+    
     
 </urlset>
