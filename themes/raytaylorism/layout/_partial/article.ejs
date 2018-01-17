@@ -1,3 +1,4 @@
+<% var aboutData = site.data.about; %>
 <%- partial('pagenav', {nav_head: __('current_page') + __('page_name.categories'), partial_path: 'post/category', archive_html: null}) %>
 <article>
     <div class="card">
@@ -18,7 +19,18 @@
                 <%- item.content %>
                 <%- partial('post/prevnext') %>
             </div>
-			
+
+            <% if (aboutData.reward && aboutData.reward.length > 0) { %>
+                <div class="rewardStyle">
+                    <section class="reward">
+                        <%- partial('_partial/plugin/reward') %>
+                    </section>
+                </div>    
+            <% } %>
+            
+			<% if (theme.atricle_footer_copyright) { %>
+                <%- partial('post/copyright') %>
+            <% } %>
         </div>
     </div>
 </article>

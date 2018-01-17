@@ -76,3 +76,6 @@ mathjax: true
 
 # 是否启用网页计数器（使用不蒜子插件）
 page_stat: false
+
+#文章底部模板是否开启
+atricle_footer_copyright: true
