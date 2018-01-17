@@ -515,6 +515,11 @@ article .toc-link:hover {
 article .toc-child {
   margin-left: 1em;
 }
+article .rewardStyle {
+  margin-top: 50px;
+  border-top: dashed 2px #008080;
+  padding-top: 15px;
+}
 a.social-link {
   display: inline-block;
   color: #f5f5f5;
@@ -788,6 +793,14 @@ article .gallery .next:before {
   100% {
     top: 0;
   }
+}
+.article-footer-copyright {
+  margin-top: 2em;
+  padding: 1.5em;
+  border: 1px solid #d3d3d3;
+  background-color: #009587;
+  border-radius: 4px;
+  width: 100%;
 }
 article pre {
   padding: 10px 16px;
