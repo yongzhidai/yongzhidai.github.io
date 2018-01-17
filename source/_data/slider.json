@@ -1,0 +1,19 @@
+[{
+    "image": "/images/bg1.jpg",
+    "align": "center",
+    "title": "欢迎你，朋友！",
+    "subtitle": "",
+	"link": "/"
+}, {
+    "image": "/images/bg2.jpg",
+    "align": "left",
+    "title": "我的知识星球圈子",
+    "subtitle": "点击微信扫码加入",
+	"link": "https://t.zsxq.com/EUn6IIE"
+}, {
+    "image": "/images/bg3.jpg",
+    "align": "right",
+    "title": "我的微信公众号",
+    "subtitle": "",
+	"link": null
+}]

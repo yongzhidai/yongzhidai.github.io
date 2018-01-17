@@ -1,0 +1,21 @@
+{
+    "avatar": "/images/head2.jpg",
+    "name": "清泉",
+	"tag": "互联网/Java/区块链/金融",
+    "desc": "不甘心只懂技术的技术男",
+    "skills": {
+        "Java/JVM": 9,
+		"Javascript": 7,
+		"Go": 6,
+		
+		"invisible-split-line-1": -1,
+
+		"区块链": 8,
+		"金融理财": 7
+    },
+    
+	"reward": [
+	    "/images/weixin2.png",
+		"/images/zhifubao2.png"
+	]
+}

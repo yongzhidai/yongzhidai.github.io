@@ -1,0 +1,50 @@
+{
+    "define": {
+	    "readed": "技术类",
+        "reading": "金融类",
+        "wanted": "其它"
+    },
+    "contents": {
+        "readed": [{
+            "title": "深入理解Java虚拟机（第2版）",
+            "cover": "/images/bookImg/java_jvm.jpg",
+            "review": "JVM入门必读",
+            "score": "8.9",
+            "doubanLink": "https://book.douban.com/subject/24722612/"
+        }, {
+            "title": "深入浅出MySQL",
+            "cover": "/images/bookImg/mysql.jpg",
+            "review": "内容通俗易懂，比较不错。",
+            "score": "7.7",
+            "doubanLink": "https://book.douban.com/subject/25817684/"
+        }, {
+            "title": "区块链技术指南",
+            "cover": "/images/bookImg/block_chain.jpg",
+            "review": "区块链学习指南！",
+            "score": "6.3",
+            "doubanLink": "https://book.douban.com/subject/26959322/"
+        }],
+		
+		"reading": [{
+            "title": "彼得·林奇的成功投资",
+            "cover": "/images/bookImg/bdlq.jpg",
+            "review": "",
+            "score": "8.7",
+            "doubanLink": "https://book.douban.com/subject/1958714/"
+        }],
+
+        "wanted": [{
+            "title": "人类简史",
+            "cover": "/images/bookImg/rljs.jpg",
+            "review": "",
+            "score": "9.1",
+            "doubanLink": "https://book.douban.com/subject/25985021/"
+        },{
+            "title": "三体",
+            "cover": "/images/bookImg/santi.jpg",
+            "review": "",
+            "score": "8.8",
+            "doubanLink": "https://book.douban.com/subject/2567698/"
+        }]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "social": {
+        "weibo": "https://weibo.com/u/6182358871?is_all=1",
+        "github": "https://github.com/yongzhidai",
+		"rss": "/atom.xml"
+    },
+    "extern": {
+	    "博客园博客": "http://www.cnblogs.com/metoy/",
+		"博客园博客(备)": "http://www.cnblogs.com/qingquanzi/",
+		"知乎": "https://www.zhihu.com/people/yongzhi.dyz"
+    }
+}
