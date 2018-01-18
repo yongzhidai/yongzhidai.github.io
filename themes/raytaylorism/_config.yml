@@ -62,7 +62,8 @@ disqus_shortname:
 duoshuo_shortname:
 # 网易云跟帖productKey，从通用代码中获取，若为空则不启用
 yungentie_product_key:
-
+#来必力评论系统
+livere_key: MTAyMC8zMzM1NS85OTEx
 # Google分析track id，若为空则不启用
 google_analytics:
 # 腾讯分析sId，若为空则不启用
