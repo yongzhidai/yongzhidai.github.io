@@ -92,13 +92,13 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[关于]]></title>
-    <url>%2Fabout%2Findex.html</url>
-    <content type="text"><![CDATA[大家好，我是清泉。欢迎来到我的个人技术博客。 本人多年从事互联网开发，以Java后端开发为主，其它为辅。先后在某上市游戏公司做页游服务端开发，也曾在创业公司做移动APP后端架构设计，目前在阿里巴巴从事资深研发的工作。]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[读书]]></title>
     <url>%2Freading%2Findex.html</url>
     <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[关于]]></title>
+    <url>%2Fabout%2Findex.html</url>
+    <content type="text"><![CDATA[大家好，我是清泉。欢迎来到我的个人技术博客。 本人多年从事互联网开发，以Java后端开发为主，其它为辅。先后在某上市游戏公司做页游服务端开发，也曾在创业公司做移动APP后端架构设计，目前在阿里巴巴从事资深研发的工作。]]></content>
   </entry>
 </search>
