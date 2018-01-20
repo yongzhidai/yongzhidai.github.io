@@ -4,6 +4,133 @@
 
     
   <url>
+    <loc>http://www.qingquan.info/2018/01/06/java-lock3/</loc>
+    <lastmod>2018-01-20T08:44:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>自己动手写把”锁”之---原子性操作</title>
+        <pubTime>2018-01-06T08:05:34.000Z</pubTime>
+        
+        <tag>cas</tag>
+         
+        <tag>原子性</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="Java" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.qingquan.info/2018/01/07/java-lock4/</loc>
+    <lastmod>2018-01-20T08:44:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>自己动手写把“锁”之---LockSupport介绍</title>
+        <pubTime>2018-01-07T08:05:37.000Z</pubTime>
+        
+        <tag>locksupport</tag>
+         
+        <tag>线程池</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="Java" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.qingquan.info/2018/01/10/java-loc5/</loc>
+    <lastmod>2018-01-20T08:44:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>自己动手写把”锁”之---终极篇</title>
+        <pubTime>2018-01-10T08:05:41.000Z</pubTime>
+        
+        <tag>锁</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="Java" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.qingquan.info/2018/01/02/java-lock2/</loc>
+    <lastmod>2018-01-20T08:04:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>自己动手写把”锁”之---JMM和volatile</title>
+        <pubTime>2018-01-02T07:38:47.000Z</pubTime>
+        
+        <tag>内存模型</tag>
+         
+        <tag>可见性</tag>
+         
+        <tag>volatile</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="Java" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.qingquan.info/2017/12/31/java-lock1/</loc>
+    <lastmod>2018-01-20T07:46:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>自己动手写把”锁”之---锁的作用</title>
+        <pubTime>2017-12-31T07:38:42.000Z</pubTime>
+        
+        <tag>synchronized</tag>
+         
+        <tag>同步</tag>
+         
+        <tag>多线程</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+             
+              <breadCrumb title="Java" url="http://www.qingquan.info/categories/%E6%8A%80%E6%9C%AF/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.qingquan.info/2018/01/19/szhbmnmnb/</loc>
     <lastmod>2018-01-19T03:22:45.000Z</lastmod>
     <data>
